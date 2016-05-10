@@ -16,7 +16,9 @@ setInterval(function() {
 
     var src = content.find('video').attr('src');
     if(src) {
-      frame.closest('.tweet').append('<div>' + src + '</div>');
+      frame.closest('.content')
+           .find('.js-actions')
+           .append('<a href="' + src + '"><span class="Icon Icon--url Icon--medium"></span></a>');
       frame.data('addedlink', true); 
     }
   });
