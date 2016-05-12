@@ -7,7 +7,7 @@
 // ==/UserScript==
 
 setInterval(function() {
-  var classesToRemove = ['post_like', 'like_wrap'];
+  var classesToRemove = ['post_full_like_wrap'];
   classesToRemove.forEach(function(cl) {
     var paras = document.getElementsByClassName(cl);
 
