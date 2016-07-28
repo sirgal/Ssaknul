@@ -1,0 +1,33 @@
+habrahabr.ru##.voting-wjt__counter
+geektimes.ru##.voting-wjt__counter
+
+www.youtube.com##.comment-renderer-footer
+www.youtube.com##.comment-author-thumbnail
+www.youtube.com##.comment-author-text
+www.youtube.com##.comment-renderer-text-content > a
+
+vk.com###wl_post_actions_wrap
+vk.com##.reply_table > .reply_info > .reply_text > .author
+vk.com##.reply_image
+vk.com##.post_image
+vk.com##.wall_text_name > .author
+vk.com##.published_by_wrap
+vk.com##.attention.left_box
+vk.com##.post_full_like
+vk.com##.like_wrap
+vk.com###pv_like_wrap
+vk.com###pv_like_wrap
+
+www.facebook.com##a[data-hovercard]
+www.facebook.com##[data-hover="tooltip"]
+www.facebook.com##.UFILikeSentence.UFIRow
+www.facebook.com##.fcg.fwn > .fcg
+www.facebook.com###pagelet_sidebar
+www.facebook.com###rightCol
+www.facebook.com##a.lfloat
+www.facebook.com##._dcs > .uiScaledImageContainer
+www.facebook.com##.PageLikeButton
+www.facebook.com##.addButton.FriendRequestAdd
+www.facebook.com##div[data-ft] > .mtm > div > div > div > div
+www.facebook.com##.rfloat > a
+www.facebook.com##.ellipsis.fsm.fwn.fcg
