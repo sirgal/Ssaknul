@@ -1,3 +1,5 @@
+www.smartapp.com###top > .mV
+
 habrahabr.ru##.voting-wjt__counter
 geektimes.ru##.voting-wjt__counter
 
@@ -30,4 +32,10 @@ www.facebook.com##.PageLikeButton
 www.facebook.com##.addButton.FriendRequestAdd
 www.facebook.com##div[data-ft] > .mtm > div > div > div > div
 www.facebook.com##.rfloat > a
-www.facebook.com##.ellipsis.fsm.fwn.fcg
+www.facebook.com##.UFILikeLink
+www.facebook.com##.share_action_link
+www.facebook.com##.UFIReplyActorPhotoWrapper
+www.facebook.com##.UFIReplySocialSentenceLinkText
+www.facebook.com##a i
+www.facebook.com##a[data-appname]
+www.facebook.com##.ellipsis
