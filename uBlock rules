@@ -1,7 +1,7 @@
-www.smartapp.com###top > .mV
-
 habrahabr.ru##.voting-wjt__counter
 geektimes.ru##.voting-wjt__counter
+habrahabr.ru##.comment-item__username
+geektimes.ru##.comment-item__username
 
 www.youtube.com##.comment-renderer-footer
 www.youtube.com##.comment-author-thumbnail
